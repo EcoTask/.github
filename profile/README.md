@@ -27,5 +27,10 @@ EcoTask é uma plataforma intuitiva para ajudar o ecosistema  com as suas tarefa
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
+## colaboradores
+<a href="https://github.com/SerHumano-arch">
+  <img scr="https://avatars.githubusercontent.com/u/174045324?v=4" alt="SerHumano-arch">
+</a>
+---
 
 **EcoTask - Pequenas ações para um grande impacto ecológico!**
