@@ -28,12 +28,19 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
-<a href="https://github.com/Csayori-chan">
-  <img src="https://avatars.githubusercontent.com/u/163341948?v=4" alt="CSayori-chan" width=7%>
+<a href="https://github.com/Csayori-chan" alt="CSayori-chan">
+  <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=7%>
 </a>
-<a href="https://github.com/SerHumano-arch">
-  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" alt="SerHumano-arch" width=7%>
+<a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
+  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=7%>
 </a>
+<a href="https://github.com/RaquelStephany" alt="RaquelStephany">
+  <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=7%>
+</a>
+<a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
+  <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=7%>
+</a><br>
+
 ---
 
 **EcoTask - Pequenas ações para um grande impacto ecológico!**
