@@ -28,8 +28,11 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
+<a href="https://github.com/Csayori-chan">
+  <img src="https://avatars.githubusercontent.com/u/163341948?v=4" alt="CSayori-chan" width=7%>
+</a>
 <a href="https://github.com/SerHumano-arch">
-  <img scr="https://avatars.githubusercontent.com/u/174045324?v=4" alt="SerHumano-arch">
+  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" alt="SerHumano-arch" width=7%>
 </a>
 ---
 
