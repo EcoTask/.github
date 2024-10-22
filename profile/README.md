@@ -28,6 +28,10 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
+### gerencia do projeto
+<a href="https://github.com/pessoa736" alt="pessoa736">
+  <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=7%>  
+</a><br>
 <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
   <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=7%>
 </a>
