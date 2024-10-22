@@ -28,22 +28,36 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
-### gerencia do projeto
-<a href="https://github.com/pessoa736" alt="pessoa736">
-  <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=7%>  
+Gerencia do Projeto:
+<br><a href="https://github.com/pessoa736" alt="pessoa736">
+  <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
 </a><br>
-<a href="https://github.com/Csayori-chan" alt="CSayori-chan">
-  <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=7%>
-</a>
-<a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
-  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=7%>
+
+Back-end:
+<div display="flex">
+  <a href="https://github.com/pessoa736" alt="pessoa736">
+    <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+  </a>
+  <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
+    <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
+  </a>
+</div><br>
+
+Front-end:
+
+Analizes:
+<br><a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
+  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=5%>
+</a><br>
+
+Design:
+<br><a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
+  <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=5%>
 </a>
 <a href="https://github.com/RaquelStephany" alt="RaquelStephany">
-  <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=7%>
+  <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
 </a>
-<a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
-  <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=7%>
-</a><br>
+<br>
 
 ---
 
