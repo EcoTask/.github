@@ -2,7 +2,7 @@
 # EcoTask - EcoTarefas Diárias 
 
 <p align="center" display="inline">
-  <img src="../imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
+  <img src="./imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
   “O mundo tornou-se perigoso porque os homens aprenderam <br>
   a dominar a natureza antes de dominar a si mesmos.” <br>
   - Albert Schweitzer
@@ -28,36 +28,98 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
-Gerencia do Projeto:
-<br><a href="https://github.com/pessoa736" alt="pessoa736">
-  <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
-</a><br>
-
-Back-end:
-<div display="flex">
-  <a href="https://github.com/pessoa736" alt="pessoa736">
-    <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+<!--<div display="flex">
+  
+  <div display="inline">
+    <p>Gerencia do Projeto:</p>
+    <br><a href="https://github.com/pessoa736" alt="pessoa736">
+      <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+    </a>
+  </div>
+  
+  <div display="inline">
+    <p>Back-end:</p>
+    <div display="flex">
+      <a href="https://github.com/pessoa736" alt="pessoa736">
+        <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+      </a>
+      <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
+        <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
+      </a>
+    </div>
+  </div>
+  
+  Front-end:
+  
+  Analizes:
+  <br><a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
+    <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=5%>
   </a>
-  <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
-    <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
+  
+  Design:
+  <br><a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
+    <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=5%>
   </a>
-</div><br>
+  <a href="https://github.com/RaquelStephany" alt="RaquelStephany">
+    <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
+  </a>
+</div>
+!-->
 
-Front-end:
-
-Analizes:
-<br><a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
-  <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=5%>
-</a><br>
-
-Design:
-<br><a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
-  <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=5%>
-</a>
-<a href="https://github.com/RaquelStephany" alt="RaquelStephany">
-  <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
-</a>
-<br>
+<table>
+  <thread>
+    <tr>
+      <th scope="col">Cargo</th>
+      <th scope="col">colaboradores</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <th scope="row">gerencia do projeto</th>
+      <td>
+        <a href="https://github.com/pessoa736" alt="pessoa736">
+          <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">back-end</th>
+      <td>
+        <a href="https://github.com/pessoa736" alt="pessoa736">
+          <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+        </a>
+        <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
+          <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">front-end</th>
+      <td>
+        <p> esperando... </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">analizes</th>
+      <td>
+        <a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
+          <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">design</th>
+      <td>
+        <a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
+          <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=5%>
+        </a>
+        <a href="https://github.com/RaquelStephany" alt="RaquelStephany">
+          <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
