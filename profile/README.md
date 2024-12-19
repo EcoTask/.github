@@ -32,17 +32,12 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
   
   <div display="inline">
     <p>Gerencia do Projeto:</p>
-    <br><a href="https://github.com/pessoa736" alt="pessoa736">
-      <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
-    </a>
+    <br>
   </div>
   
   <div display="inline">
     <p>Back-end:</p>
     <div display="flex">
-      <a href="https://github.com/pessoa736" alt="pessoa736">
-        <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
-      </a>
       <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
         <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
       </a>
